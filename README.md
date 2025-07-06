@@ -1,2 +1,2 @@
 # Problemas-de-rboles-y-Grafos-Soluciones-a-Online-Judge-UVA-
-Este repositorio contiene soluciones implementadas en Python a problemas de teoría de grafos y estructuras de datos,  de UVA Online Judge.
+Este repositorio contiene soluciones implementadas en Python a problemas clásicos de teoría de grafos y estructuras de datos avanzadas, provenientes del juez en línea UVA Online Judge. Las soluciones fueron desarrolladas con enfoque en prácticas algorítmicas fundamentales como búsqueda en profundidad, algoritmos de caminos más cortos, detección de componentes conexas, puntos de articulación, puentes, ordenamientos topológicos y estructuras de datos como árboles de segmento.
